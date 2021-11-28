@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login to Access Your Account</string>
+    <string name="username">Enter USerName</string>
+    <string name="password">Enter Password</string>
+    <string name="create">Create New Account</string>
+    <string name="option">or sign in with following</string>
+    <string name="forgot">Change Password</string>
+</resources>
